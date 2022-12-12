@@ -16,8 +16,8 @@ If you would like to suggest any features join the JServices discord or make an 
 
 # Deployments
 ## (for replit change it to HTML please)
-<a target="_blank" href="https://github.com/GamingReborn/Mercury.js"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
-<a target="_blank" href="https://github.com/GamingReborn/Mercury.js"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
+<a target="_blank" href="https://replit.com/github/GamingReborn/Mercury.js"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
+<a target="_blank" href="https://glitch.com/edit/#!/import/git?url=https://github.com/GamingReborn/Mercury.js"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
 <a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/GamingReborn/Mercury.js"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>
 ## enjoy!
 (P.S: If you wanna deploy it to repl change it to html)
