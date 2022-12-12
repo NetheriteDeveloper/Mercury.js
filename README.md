@@ -15,3 +15,4 @@ javascript:(function () {var a = document.createElement('script');a.src = 'https
 If you would like to suggest any features join the JServices discord or make an issue on the github repo!
 
 enjoy!
+(P.S: If you wanna deploy it to repl change it to html)
