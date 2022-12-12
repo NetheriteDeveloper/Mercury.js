@@ -15,9 +15,9 @@ javascript:(function () {var a = document.createElement('script');a.src = 'https
 If you would like to suggest any features join the JServices discord or make an issue on the github repo!
 
 # Deployments
-(for replit change it to HTML please)
+## (for replit change it to HTML please)
 <a target="_blank" href="https://github.com/GamingReborn/Mercury.js"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
 <a target="_blank" href="https://github.com/GamingReborn/Mercury.js"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
 <a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/GamingReborn/Mercury.js"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>
-enjoy!
+## enjoy!
 (P.S: If you wanna deploy it to repl change it to html)
